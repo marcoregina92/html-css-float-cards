@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fredoka One', sans-serif
+}
+
+.container{
+    width: 1040px;
+    margin: 0 auto;
+}
+
+
+.clearfix {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+
+header{
+    text-align: center;
+}
+
+
+header h1{
+    color: #E53170;
+    margin: 35px;
+
+    
+}
+
+img{
+    width: 100px;
+    float: left;
+}
+
+.card-testo{
+    float: left;
+	width: calc(33% - 20px);
+	background-color: black;
+    color: white;
+	text-align: left;
+    margin-top: 40px;
+    margin-left: 20px;
+
+}
+
