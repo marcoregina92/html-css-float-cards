@@ -26,13 +26,15 @@ header{
 header h1{
     color: #E53170;
     margin: 35px;
-
-    
 }
 
+main{
+    padding-top: 30px;
+}
 img{
     width: 100px;
     float: left;
+    margin-right: 10px;
 }
 
 .card-testo{
@@ -43,6 +45,16 @@ img{
 	text-align: left;
     margin-top: 40px;
     margin-left: 20px;
-
+    box-shadow: 5px 5px 5px 5px #cececd ;
 }
+
+h3{
+    margin: 10px 0 10px 10px;
+}
+
+.card-testo > p{
+    font-size: 13px;
+    margin-top: 16px;
+}
+
 
